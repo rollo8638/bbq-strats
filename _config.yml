@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: minima
 # minima:
 header_pages:
   - index.md
