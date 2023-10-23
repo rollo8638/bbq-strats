@@ -1,7 +1,13 @@
 theme: minima
-# minima:
+
+minima:
+ social_links:
+ - { platform: discord,          user_url: "https://discord.gg/mCxu9CXbhT" }
+
+plugins:
+  - jekyll-feed
+
 header_pages:
-  - index.md
   - README.md
   - criterion_dungeon/README.md
   - criterion_dungeon/AMR/README.md
