@@ -2,3 +2,6 @@ remote_theme: minima
 # minima:
 header_pages:
   - index.md
+  - README.md
+  - criterion_dungeon/README.md
+  - criterion_dungeon/AMR/README.md
