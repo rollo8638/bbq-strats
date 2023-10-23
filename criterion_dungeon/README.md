@@ -5,4 +5,4 @@ permalink: /criterion_dungeon/
 ---
 # Criterion Dungeon
 
-- **AMR**](/criterion_dungeon/AMR/README.md)
+- [**AMR**](/criterion_dungeon/AMR/README.md)
