@@ -7,5 +7,5 @@ permalink: /
 # BBQ Raiding
 in the making
 
-## [Criterion Dungeons](/criterion_dungeion/README.md)
-**AMR** - [AMR](/criterion_dungeion/AMR/README.md)
+## [Criterion Dungeons](/criterion_dungeon/README.md)
+- **AMR** - [AMR](/criterion_dungeon/AMR/README.md)
