@@ -1,9 +1,8 @@
-theme: minima
-
-minima:
- skin: auto
- social_links:
- - { platform: discord,          user_url: "https://discord.gg/mCxu9CXbhT" }
+theme: just-the-docs
+#minima:
+# skin: auto
+# social_links:
+# - { platform: discord,          user_url: "https://discord.gg/mCxu9CXbhT" }
 
 plugins:
   - jekyll-feed
