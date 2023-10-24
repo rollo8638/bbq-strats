@@ -1,7 +1,6 @@
 ---
 title: Home
 descruption: Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!
-layout: page
 nav_order: 1
 permalink: /
 ---
